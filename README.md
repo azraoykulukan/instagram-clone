@@ -14,9 +14,7 @@ Paylaşılan gönderiler, ana sayfada tüm kullanıcılar tarafından görüntü
 Gönderilere yorum yaparak diğer kullanıcılarla etkileşimde bulunabilir.
 
 **Diğer Kullanıcıları Takip Etme:** Kullanıcılar, diğer kullanıcıları takip ederek onların gönderilerini ana sayfalarında görebilir.
-Kendi Profil Sayfası:
-
-Kullanıcılar, paylaşımlarını ve profil bilgilerini görüntüleyebilir.
+**Kendi Profil Sayfası:** Kullanıcılar, paylaşımlarını ve profil bilgilerini görüntüleyebilir.
 Takipçi ve takip edilen listelerine erişim sağlanabilir.
 ## 🛠️ Kullanılan Teknolojiler
 **Dart:** Uygulamanın geliştirilmesinde kullanılan programlama dili.
