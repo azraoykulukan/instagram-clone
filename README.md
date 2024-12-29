@@ -1,16 +1,32 @@
-# instagram_flutter
+# Basit Instagram Clone - Sosyal Medya Uygulaması
+Bu proje, Dart dili ve Flutter framework kullanılarak geliştirilen, temel sosyal medya özelliklerini içeren bir Instagram Clone uygulamasıdır. Uygulama, kullanıcıların hesap oluşturmasını, giriş yapmasını, post paylaşmasını ve diğer kullanıcılarla etkileşim kurmasını sağlayan basit bir sosyal medya platformudur.
 
-A new Flutter project.
+## 🚀 Özellikler
+Kullanıcı Girişi ve Kaydı:
 
-## Getting Started
+Kullanıcılar uygulamaya kayıt olabilir ve giriş yapabilir.
+Firebase Authentication kullanılarak güvenli bir giriş sistemi sağlanmıştır.
+Post Paylaşımı:
 
-This project is a starting point for a Flutter application.
+Kullanıcılar, fotoğraf ve açıklama ekleyerek gönderi oluşturabilir.
+Paylaşılan gönderiler, ana sayfada tüm kullanıcılar tarafından görüntülenebilir.
+Post Düzenleme:
 
-A few resources to get you started if this is your first Flutter project:
+Kullanıcılar, paylaştıkları gönderilere açıklama ekleyebilir veya gönderilerini silebilir.
+Beğeni ve Yorum:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Kullanıcılar, gönderilere çift tıklayarak beğeni bırakabilir.
+Gönderilere yorum yaparak diğer kullanıcılarla etkileşimde bulunabilir.
+Diğer Kullanıcıları Takip Etme:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kullanıcılar, diğer kullanıcıları takip ederek onların gönderilerini ana sayfalarında görebilir.
+Kendi Profil Sayfası:
+
+Kullanıcılar, paylaşımlarını ve profil bilgilerini görüntüleyebilir.
+Takipçi ve takip edilen listelerine erişim sağlanabilir.
+## 🛠️ Kullanılan Teknolojiler
+Dart: Uygulamanın geliştirilmesinde kullanılan programlama dili.
+Flutter: Kullanıcı arayüzünü oluşturan açık kaynaklı framework.
+Firebase:
+Authentication: Kullanıcı girişi ve kaydı için.
+Firestore Database: Post ve kullanıcı verilerinin saklanması için.
