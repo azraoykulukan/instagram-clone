@@ -1,6 +1,9 @@
 # Basit Instagram Clone - Sosyal Medya Uygulaması
 Bu proje, Dart dili ve Flutter framework kullanılarak geliştirilen, temel sosyal medya özelliklerini içeren bir Instagram Clone uygulamasıdır. Uygulama, kullanıcıların hesap oluşturmasını, giriş yapmasını, post paylaşmasını ve diğer kullanıcılarla etkileşim kurmasını sağlayan basit bir sosyal medya platformudur.
 
+![mockup_](https://github.com/user-attachments/assets/fd7f33a0-4aaf-4f6d-898a-20398d1f3e70)
+
+
 ## 🚀 Özellikler
 **Kullanıcı Girişi ve Kaydı:** Kullanıcılar uygulamaya kayıt olabilir ve giriş yapabilir.
 Firebase Authentication kullanılarak güvenli bir giriş sistemi sağlanmıştır.
@@ -22,3 +25,5 @@ Takipçi ve takip edilen listelerine erişim sağlanabilir.
 **Firebase:**
 *Authentication:* Kullanıcı girişi ve kaydı için.
 *Firestore Database:* Post ve kullanıcı verilerinin saklanması için.
+
+
